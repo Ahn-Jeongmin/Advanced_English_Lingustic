@@ -1,15 +1,18 @@
 # Language Development Analysis Using CHILDES Database
 
 ## Overview
-This project, presented by Team 2, explores language development in children by analyzing the influence of parental gender. Using data from the CHILDES database, the study examines whether children are more influenced by the speech of the parent of the same gender during early language acquisition stages.
+This project explores language development in children by analyzing the influence of parental gender. Using data from the CHILDES database, the study examines whether children are more influenced by the speech of the parent of the same gender during early language acquisition stages.
 
 ## Contents
-- **Introduction**: Brief project overview, research objectives, and presentation outline.
 - **Hypothesis**: Children are hypothesized to show linguistic characteristics closer to the parent of the same gender.
-- **Methodology**: Analysis focused on the Type-Token Ratio (TTR) and Mean Length of Utterance (MLU) across various child-parent data pairs.
+- **Methodology**: Analysis focused on the Type-Token Ratio (TTR) and Mean Length of Utterance (MLU) across various child-parent data pairs using CLAN.
 - **Results**: Mothers had a more significant influence on the children’s language development regardless of the child's gender.
 - **Conclusion**: Mothers' language interactions with their children are foundational, involving a blend of high vocabulary levels and repetitive language that aids early language development.
 
+## Data and Tools
+- **Dataset**: Providence dataset from the **CHILDES** database
+- **Analysis Tool**: **CLAN**
+  
 ## Key Findings
 1. **Gender Influence Hypothesis**: Initially hypothesized that boys and girls would mimic the linguistic patterns of fathers and mothers, respectively. However, results showed that mothers tend to influence language development more than fathers for both genders.
 2. **Type-Token Ratio (TTR)**: TTR analysis showed that mothers and children had similar values, suggesting that mothers adjust vocabulary range to the child’s comprehension level.
