@@ -27,4 +27,4 @@ This project explores language development in children by analyzing the influenc
 ## Conclusion
 This study underscores the importance of maternal interaction in language development, highlighting the role of familiar and repetitive language structures. The findings suggest that mothers' conversational adjustments create an environment that aids in building foundational language skills for young children.
 
-https://docs.google.com/document/d/1yu0qymYu5b9OLjPHqQcxUeO8W739ns7UwRM5z7szvA8/edit?tab=t.g3iyuh5ughlx
+https://docs.google.com/document/d/1yu0qymYu5b9OLjPHqQcxUeO8W739ns7UwRM5z7szvA8/edit
